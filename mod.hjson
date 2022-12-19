@@ -1,0 +1,8 @@
+name: "bw-switch"
+displayName: "B/W Switch"
+author: eliminmax
+description: "Retextures the switch to be fully black if off and fully white if on."
+version: "1.0"
+minGameVersion: "140.1"
+dependencies: [ ]
+hidden: false
