@@ -5,4 +5,4 @@ description: "Retextures the switch to be fully black if off and fully white if 
 version: "1.0"
 minGameVersion: "140.1"
 dependencies: [ ]
-hidden: false
+hidden: true
